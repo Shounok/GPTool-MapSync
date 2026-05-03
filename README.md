@@ -3,8 +3,8 @@ MapSync is a professional-grade solution for updating and synchronizing map data
 
 ## The Toolbox
 The Toolbox contains two tools.
-- Change Map Data Source
-- Change Map Multiple Data Source
+- [Change Map Data Source](#change-map-data-source)
+- [Change Map Multiple Data Source](#change-map-multiple-data-source)
 
 ### Change Map Data Source
 The tool modifies the map layers with new geodatabase as data source. 
